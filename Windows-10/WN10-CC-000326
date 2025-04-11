@@ -1,5 +1,5 @@
 <#
-.SYNOPSIS
+.SYNOPSIS 
     This PowerShell script enables PowerShell Script Block Logging by modifying the registry settings to enhance security monitoring.
 
 .NOTES
