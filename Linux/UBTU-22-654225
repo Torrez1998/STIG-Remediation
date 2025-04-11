@@ -3,7 +3,7 @@
     This Bash script ensures that Ubuntu 22.04 LTS generates audit records when successful/unsuccessful attempts to modify the /etc/sudoers.d directory occur.
 
 .NOTES
-    Author          : Ariel Torres
+    Author          : Ariel Torres 
     LinkedIn        : https://www.linkedin.com/in/ariel-torrez/
     GitHub          : https://github.com/Torrez1998
     Date Created    : 04-10-2025
