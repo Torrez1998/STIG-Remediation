@@ -1,5 +1,5 @@
 <#
-.SYNOPSIS
+.SYNOPSIS 
    This PowerShell script configures the ECC curve order for SSL by modifying the registry to prioritize NistP384 and NistP256 curves.
 
 .NOTES
